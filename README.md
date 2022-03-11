@@ -10,3 +10,5 @@ The code is modified from examples in "A Quick Introduction to iNEXT via Example
 This study compared the avian biodiversity, as detected using Autonomous Recording Units (ARU), in clear-cut forestry blocks versus blocks with partial retention of non-commercial 
 hardwoods (mainly aspen and birch) and compared this with neighbouring uncut forest blocks.  The objective was to see whether retention of some stand structure would 
 promote higher species diversity than the more commonly employed forestry practice in central British Columbia of clear-cut logging.
+
+(Apologies if this is a bit wordy - I am sharing these files with collaborators so trying to document processes I followed.)
